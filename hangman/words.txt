@@ -1,0 +1,8 @@
+#animals
+elephant,giraffe,hippopotamus,rhinoceros,chimpanzee,cheetah,tiger,lion,zebra,penguin,kangaroo,koala,octopus
+#indian cities
+mumbai,delhi,bangalore,kolkata,chennai,hyderabad,ahmedabad,pune,jaipur,lucknow,coimbatore,mysore
+#months
+january,february,march,april,may,june,july,august,september,october,november,december
+#days
+monday,tuesday,wednesday,thursday,friday,saturday,sunday
